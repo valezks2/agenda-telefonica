@@ -19,7 +19,7 @@
 
 </div>
 
-## Descripción
+## Descripción del Problema
 
 Crear un proyecto llamado **AgendaTelefónica** que permita simular una agenda de contactos. Para esto, se deberán crear tres archivos: una clase Contacto, una clase Agenda y el index principal para ejecutar ambas.
 - **Clase Contacto:** cuenta con dos atributos, nombre y número; además de los métodos getters y setters, y el constructor.
